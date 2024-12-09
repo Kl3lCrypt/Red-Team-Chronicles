@@ -1,0 +1,26 @@
+# Archivos y carpetas generadas por el sistema operativo
+.DS_Store    # Para MacOS
+Thumbs.db    # Para Windows
+
+# Archivos de configuración locales de IDEs o editores de texto
+.vscode/      # Si usas Visual Studio Code
+.idea/        # Si usas JetBrains (WebStorm, PhpStorm, etc.)
+
+# Archivos de dependencias de Node.js (si usas Node.js)
+node_modules/
+
+# Archivos temporales de editores de texto
+*.log         # Archivos de registro
+*.swp         # Archivos temporales de Vim
+*.sublime-workspace # Archivos de configuración de Sublime Text
+
+# Archivos de compilación
+*.bak         # Archivos de respaldo
+
+# Archivos de entorno de Python (si usas Python en algún momento)
+__pycache__/
+*.pyc
+
+# Otros archivos que no queremos subir
+.env          # Archivos de configuración de entorno (como API keys o configuraciones privadas)
+
